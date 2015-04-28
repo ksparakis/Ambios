@@ -1,9 +1,9 @@
 #AMBIOS
 Team 19
 <br/>
-Konstantino Sparakis - U47131572
+Konstantino Sparakis 
 <br/>
-Zach Sarkis - U
+Zach Sarkis 
 <br/>
 <br/>
 <br/>
