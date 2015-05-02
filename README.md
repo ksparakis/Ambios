@@ -7,9 +7,6 @@ Zach Sarkis
 <br/>
 <br/>
 <br/>
-## Project Final Report
-<br/>
-<br/>
 ###Demo
 Follow the link for a small video demo:
 https://instagram.com/p/2MbthKAfAg/
